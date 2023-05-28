@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'Fashionable'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_698B1DD63B64462EAE735ECE85E12847 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CDB79160524D42EB9784726E7AA322F4 }}
           package: .
